@@ -1,6 +1,7 @@
 package admin;
 
 public class OrderModify {
+	private String w;
 	private String user_id;
 	private Integer sale_id;
 	private Integer sale_detail_id;
